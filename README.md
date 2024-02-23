@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Qlisense,Excel
+#### Technical Skills: Python, SQL, Qliksense, Excel
 
 ## Education
 - Course, Data Science - WorldQuant university (_March 2024_)								       		
