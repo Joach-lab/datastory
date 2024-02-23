@@ -14,5 +14,6 @@
 **Researcher/Analyst @ Cezamat Center for Advanced Materials and Technologies (_September 2021 - April 2022_)**
 - Conducted data analysis and reporting to support research carried in this laboratory
 - Collaborated with teammates to ensure accurate data sourcing, analysis, and reports were delivered and presented
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
